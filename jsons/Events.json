@@ -1,0 +1,86 @@
+[
+        {
+                "name": "Girlfriend2",
+                "text": "Pick your loving partner.",
+                "choices": [
+            {
+                "text": "The Yandere.",
+                "uniques": [
+                "Comment [An obsessive Partner that stalked you in the first moment it had an interest on you]",
+                "Gain a free [Yandere] [in capital]"]
+            },
+            {
+                "text": "The Engineer.",
+                "uniques": [
+                "Comment [An depressed person lays without any new idea, maybe you could support its plan and work on a new kind of wonder]",
+                "Gain a free [Engineer] [in capital]"]
+            },
+            {
+                "text": "The War Minister.",
+                "uniques": [
+                "Comment [This person hates all people, except you somehow, loves the war, hates the piece, and its good at making the war economy work]",
+                "Gain a free [War Minister] [in capital]"]
+            },
+            {
+                "text": "The Secretary.",
+                "uniques": [
+                "Comment [Your attractive secretary has been requesting the place as partner, good at managing economical finances, loves urban areas, hates nature and most animals]",
+                "Gain a free [Secretary] [in capital]"]
+            },
+            {
+                "text": "The Bricklayer.",
+                "uniques": [
+                "Comment [A warm, happy worker that enjoys to build stuff in your capital, is known for loving architecture and beaches]",
+                "Gain a free [Bricklayer] [in capital]"]
+            },
+            {
+                "text": "The Vampire.",
+                "uniques": [
+                "Comment [An pale and victorian looking partner that lives in a castle in the mountains surronded by forests, you are safe from the blood cult, and you could even join the sanguine secret society]",
+                "Gain a free [Vampire] [in capital]"]
+            },
+            {
+                "text": "The Adventurer.",
+                "uniques": [
+                "Comment [An old fashioned partner that sometimes is mistaken for an druid, there are weird occasions where it seems to speak to the trees]",
+                "Gain a free [Adventurer] [in capital]"]
+            },
+            {
+                "text": "The Scholar.",
+                "uniques": [
+                "Comment [This person loves to study and to gain knowledge, often visits both the modern place marks and temples]",
+                "Gain a free [Scholar] [in capital]"]
+            },
+            {
+                "text": "The Artist.",
+                "uniques": [
+                "Comment [An partner that is good at making art pieces, musical pieces, and enjoys any date on an ancient or vintage place]",
+                "Gain a free [Artist] [in capital]"]
+            },
+        
+            {
+                "text": "The Protector.",
+                "uniques": [
+                "Comment [This person protects people rights, and defends global liberty, good at keeping prosperity]",
+                "Gain a free [Protector] [in capital]"]
+            },
+        
+            {
+                "text": "The Dreamer.",
+                "uniques": [
+                "Comment [With their head in the clouds and eyes full of wonder, they inspire others to reach for the stars. Their dreams are limitless and infectious]",
+                "Gain a free [Dreamer] [in capital]"]
+            },
+        
+            {
+                "text": "The Navigator.",
+                "uniques": [
+                "Comment [A natural guide, they help others find their way through life's twists and turns. Their wisdom and intuition make them a trusted companion]",
+                "Gain a free [Navigator] [in capital]"]
+            },
+        
+        
+            ]
+    }
+
+]

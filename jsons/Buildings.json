@@ -1,0 +1,112 @@
+[
+	// GIRLFRIEND PICKER UNIQUE BUILDINGS
+    
+    {
+		"name": "Girlfriend1",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["Triggers a [Girlfriend2] event","Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+
+	// GIRLFRIENDS
+
+    {
+		"name": "Yandere",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+30]% Production when constructing [Archery] units [in all cities]","[+25]% Production when constructing [Gunpowder] units [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Engineer",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "War Minister",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Gold, +1 Production] [in all cities]","[Gold] cost of purchasing [Melee] units [-30]% <when at war>",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+
+	{
+		"name": "Secretary",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+4 Gold] [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Bricklayer",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+2 Production] [in capital]","[+2 Production] from all [Production] buildings",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Vampire",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+25]% Production when constructing [Melee] units [in all cities]","[+10]% [Culture] [in all cities]","[+10]% [Faith] [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+
+	{
+		"name": "Adventurer",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+1 Culture] from [Forest] tiles [in all cities]","[+1 Culture] from [Jungle] tiles [in all cities]","[+1 Culture] from [Mountain] tiles [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Scholar",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+2 Faith] from [Mountain] tiles [in all cities]","[+3]% [Science] [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Artist",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+20]% [Culture] [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+
+	{
+		"name": "Protector",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["Gifts of Gold to City-States generate [+10]% more Influence","[+25]% Golden Age length",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Dreamer",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+2 Culture, +1 Faith] from every specialist [in capital]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	},
+	{
+		"name": "Navigator",
+		"isNationalWonder":true,
+		"hurryCostModifier": 0,
+		"uniques": ["[+2 Gold, +1 Food] from [Coast] tiles [in all cities]",
+
+			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
+	}
+        ]
