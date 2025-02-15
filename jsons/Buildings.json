@@ -19,7 +19,7 @@
 			"Unbuildable","Cannot be purchased","Moves to new capital when capital changes"]
 	},
 	{
-		"name": "Engineer",
+		"name": "Engineer Partner",
 		"isNationalWonder":true,
 		"hurryCostModifier": 0,
 		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital",
